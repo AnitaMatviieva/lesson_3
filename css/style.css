@@ -1,0 +1,38 @@
+
+h1{
+	color: gold;
+}
+
+.first-title{
+	color: darkgoldenrod;
+}
+
+.text p{
+color:#336633;
+}
+
+.second-title{
+	color:#CC6600 ;
+}
+.war{
+	color: #CC0000;
+}
+
+.nothing > p {
+	color: red;
+}
+
+.third-title{
+	color: darkcyan;
+}
+
+.fourth-title{
+	color: #CC99CC;
+}
+
+.fifth-title {
+	color: #FF6666;
+}
+.life{
+	color: #336633;
+}
